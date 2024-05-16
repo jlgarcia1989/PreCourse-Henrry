@@ -1,2 +1,2 @@
-# PreCourse-Henrry
-Este es un repositorio de prueba del Pre cours de Henrry 
+Este archivo es una prueba de como clonar un archivo en mi escritorio local 
+
